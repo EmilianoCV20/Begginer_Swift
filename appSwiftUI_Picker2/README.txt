@@ -9,8 +9,6 @@ El proyecto ilustra patrones básicos de SwiftUI:
 - Enumeraciones (`enum`) que implementan `CaseIterable` e `Identifiable` para poblar un `Picker`.  
 - Composición declarativa de la interfaz.
 
-Nota: El código incluye un comentario que sugiere implementar una aplicación adicional para manejar expresiones regulares utilizando un `SegmentedControl` o un `Picker` — esto puede tomarse como una mejora o ejercicio siguiente.
-
 ----------------------------------------------------
 2. Estructura de Archivos
 ----------------------------------------------------
